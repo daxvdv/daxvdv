@@ -1,6 +1,6 @@
 
 ### About Me
-- 👨🏻‍💻 Mathematics/Computer Engineering @ Agnes Scott College
+- 👨🏻‍💻 Mathematics @ Agnes Scott College
 - 📝 Previous Projects: Context-Soliciting Interface for CMU ABLE Lab, Neural Network from Scratch
 - 🔨 Current Projects: K.I.T Network Secretary App, Carbon Calculator App, Satellite Data ML Model
 ---
